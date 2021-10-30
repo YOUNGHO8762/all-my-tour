@@ -36,7 +36,7 @@
 > -Common : Postman, Slack, Flow, Trello<br>
 <br>
 
-구현 기능<br>
+### 구현 기능<br><br>
 직접 구현한 기능은 ✅, 팀원이 구현한 기능은 ✔️로 표시했습니다.
 1. 회원가입 / 로그인 페이지<br>
 ✔️ 회원가입 유효성 검사 시, 객체로 로직 분리하여 `useEffect` 활용<br>
