@@ -49,7 +49,7 @@
 2. 내비게이션 바<br>
 ✔️ `!!`연산자를 통해 token 여부에 따른 로그인, 마이페이지 버튼 전환과 `useHistory`를 통한 페이지 이동<br>
 3. 메이커스 지원하기<br>
-✅ `Custom Hook` useApplyInput을 활용하여 입력값 수정, 넘겨주기 구현 <br>
+✅ `Custom Hook` useApplyInput을 활용하여 Input값 수정, 넘겨주기 구현 <br>
 ✅ `Context API`를 활용해 hover창, 선택한 투어 서비스 지역 리스트의 상태값을 글로벌하게 관리  
 ✅ `Portals`를 통한 부모 컴포넌트의 외부 DOM에 Modal 컴포넌트 렌더링 <br>
 ✅ `FornData`와 `Axios` 라이브러리를 통해 이미지 백엔드 전송 구현 <br>
